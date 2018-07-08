@@ -12,11 +12,72 @@ Deep Reinforcement Learning Hands-On is a comprehensive guide to the very latest
 
 ## What You Will Learn
 
-## Contents (Presentation Slides - Korean)
+- Understand the DL context of RL and implement complex DL models
+- Learn the foundation of RL: Markov decision processes
+- Evaluate RL methods including Cross-entropy, DQN, Actor-Critic, TRPO, PPO, DDPG, D4PG and others
+- Discover how to deal with discrete and continuous action spaces in various environments
+- Defeat Atari arcade games using the value iteration method
+- Create your own OpenAI Gym environment to train a stock trading agent
+- Teach your agent to play Connect4 using AlphaGo Zero
+- Explore the very latest deep RL research on topics including AI-driven chatbots
 
-<img align="right" src="http://www.pbrt.org/images/bookcover.png">
+## Contents - "Reinforcement learning with Python and Keras"
 
-TBA
+<img align="right" src="https://github.com/utilForever/RLStudy/blob/master/Medias/Book1.jpg">
+
+### Chapter 1: Intorduction to Reinforcement Learning
+
+### Chapter 2: RL Basic 1 - MDP and Bellman Equation
+
+### Chapter 3: RL Basic 2 - Grid World and Dynamic Programming
+
+### Chapter 4: RL Basic 3 - Grid World and Q-Learning
+
+### Chapter 5: RL Advanced 1 - Grid World and Approximation Function
+
+### Chapter 6: RL Advanced 2 - Cart-Pole
+
+### Chapter 7: RL Advanced 3 - Atari
+
+## Contents - "Deep Reinforcement Learning Hands-On"
+
+<img align="right" src="https://github.com/utilForever/RLStudy/blob/master/Medias/Book2.png">
+
+### Chapter 1: What is Reinforcement Learning?
+
+### Chapter 2: OpenAI Gym
+
+### Chapter 3: Deep Learning with PyTorch
+
+### Chapter 4: The Cross-Entropy Method
+
+### Chapter 5: Tabular Learning and The Bellman Equation
+
+### Chapter 6: Deep Q-Networks
+
+### Chapter 7: DQN Extensions
+
+### Chapter 8: Stocks Trading using RL
+
+### Chapter 9: Policy Gradients - An Alternative
+
+### Chapter 10: The Actor-Critic Method
+
+### Chapter 11: Asynchronous Advantage Actor-Critic
+
+### Chapter 12: Chatbots training with RL
+
+### Chapter 13: Web Navigation
+
+### Chapter 14: Continuous Action Space
+
+### Chapter 15: Trust Regions - TRPO, PPO, and ACKTR
+
+### Chapter 16: Black-Box Optimization in RL
+
+### Chapter 17: Beyond Model-Free - Imagniation
+
+### Chapter 18: AlphaGo Zero
 
 ## License
 
