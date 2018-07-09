@@ -23,7 +23,7 @@ Deep Reinforcement Learning Hands-On is a comprehensive guide to the very latest
 
 ## Contents - "Reinforcement learning with Python and Keras"
 
-<img align="right" src="https://github.com/utilForever/RLStudy/blob/master/Medias/Book1.jpg">
+<img align="right" src="https://github.com/utilForever/RLStudy/blob/master/Medias/Book1.jpg" height="450" width="350">
 
 ### Chapter 1: Intorduction to Reinforcement Learning
 
@@ -41,7 +41,7 @@ Deep Reinforcement Learning Hands-On is a comprehensive guide to the very latest
 
 ## Contents - "Deep Reinforcement Learning Hands-On"
 
-<img align="right" src="https://github.com/utilForever/RLStudy/blob/master/Medias/Book2.png">
+<img align="right" src="https://github.com/utilForever/RLStudy/blob/master/Medias/Book2.png" height="450" width="350">
 
 ### Chapter 1: What is Reinforcement Learning?
 
